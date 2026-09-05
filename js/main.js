@@ -1,5 +1,5 @@
 import routes from './routes.js';
-import store from './score.js';
+import { store } from './score.js';
 
 const router = VueRouter.createRouter({
     history: VueRouter.createWebHashHistory(),
