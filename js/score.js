@@ -1,5 +1,5 @@
 export const store = {
-    // Score/Store state
+    // Score/Store State
 };
 
 export const score = store;
