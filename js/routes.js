@@ -1,4 +1,4 @@
-import List from './pages/List.js';
+import List from './pages/List.js?v=999';
 import Leaderboard from './pages/Leaderboard.js';
 import Roulette from './pages/Roulette.js';
 
