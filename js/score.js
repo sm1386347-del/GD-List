@@ -1,6 +1,7 @@
-const store = {
-    // Hier liegen die Store-Daten
+export const store = {
+    // Score/Store state
 };
 
-export { store };
+export const score = store;
+
 export default store;
