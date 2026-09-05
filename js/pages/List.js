@@ -1,6 +1,6 @@
 import { store } from "../main.js";
 import { embed } from "../util.js";
-import { score } from "../score.js";
+import store from '../score.js?v=8';
 import { fetchEditors, fetchList } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
