@@ -1,9 +1,7 @@
-import store from '../score.js?v=999';
+import store from '../score.js?v=1000';
 import { fetchList } from '../content.js';
-
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
-
 const roleIconMap = {
     owner: "crown",
     admin: "user-gear",
