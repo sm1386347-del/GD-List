@@ -1,5 +1,6 @@
-export const store = {
-    // Falls hier Variablen oder Funktionen stehen, bleiben sie erhalten
+const store = {
+    // Hier liegen die Store-Daten
 };
 
+export { store };
 export default store;
