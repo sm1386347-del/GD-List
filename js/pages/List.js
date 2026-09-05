@@ -1,4 +1,4 @@
-import store from '../score.js?v=1000';
+import store from '../score.js?v=1001';
 import { fetchList } from '../content.js';
 import { embed } from '../util.js';
 import Spinner from "../components/Spinner.js";
