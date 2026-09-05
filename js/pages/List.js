@@ -1,7 +1,5 @@
-import { store } from "../main.js";
-import { embed } from "../util.js";
 import store from '../score.js?v=999';
-import { fetchEditors, fetchList } from "../content.js";
+import { fetchList } from '../content.js';
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
